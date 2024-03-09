@@ -2,7 +2,6 @@ package kr.or.ddit.basic;
 
 import java.util.Vector;
 
-//
 public class VectorTest {
 	public static void main(String[] args) {
 		
