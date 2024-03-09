@@ -3,7 +3,7 @@ package kr.or.ddit.util;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
+// 깃허브 테스트
 // JDBC드라이버를 로딩하고 Connection 객체를 생성하여 반환하는 메서드로 구성된 class 만들기
 public class DBUtil {
 	static {
